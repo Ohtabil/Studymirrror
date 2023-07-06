@@ -389,12 +389,12 @@ a {
 /*==============================
 =>  Footer Section
 ================================*/
-footer {
+/*.footer {
   text-align: center;
   padding: 3px;
-  background-color: DarkSalmon;
+  background-color:blue;
   color: white;
-}
+}*/
 
 /*==============================
 =>  Layout
